@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color:black;
+    color:aqua;
+    list-style-position: inside;
+
+    a {
+        color: aqua;
+    }
+
+    a:hover{
+        color: magenta;
+    }
+
+    a:visited{
+        color: aquamarine;
+    }
+}
+
+nav {
+    list-style-position: inside;
+    text-indent : -2cm;
+}
